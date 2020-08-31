@@ -1,0 +1,15 @@
+.login {
+  height: 100vh;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login__container {
+  text-align: center;
+  margin-top: 90px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

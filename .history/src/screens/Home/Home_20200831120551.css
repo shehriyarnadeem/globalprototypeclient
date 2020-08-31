@@ -1,0 +1,6 @@
+.home {
+  flex: 0.7;
+  flex-grow: 1;
+  justify-content: center;
+  align-content: center;
+}
